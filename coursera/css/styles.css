@@ -1,0 +1,65 @@
+.nav-header {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: gray;
+    font-weight: 600;
+    font-size: 1rem;
+}
+#chicken {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+#beef {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+#Sushi {
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.chicken {
+    background-color: gray;
+    margin: 10px;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.Beef {
+    background-color: gray;
+    margin: 10px;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.Sushi {
+    background-color: gray;
+    margin: 10px;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+.navbar-nav {
+    background-color: white;
+}
+.navbar-item  {
+    color: black;
+    border: 1px solid black;
+    text-align: center;
+    text-overflow: initial;
+}
+@media  (max-width: 575px)
+{
+    .row {
+        width: 80%;
+        padding-left: 100px;
+        padding-right: 0;
+        
+    
+    }
+}
